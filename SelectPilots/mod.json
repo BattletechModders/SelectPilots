@@ -6,7 +6,7 @@
   "Description": "Select starting pilots",
   "Author": "mpstrak",
   "Editor": "Harkonnen",
-  "Website": "",
+  "Website": "https://github.com/BattletechModders/SelectPilots",
 
   "ConflictsWith": [ "RandomCampaignStart" ],
 
